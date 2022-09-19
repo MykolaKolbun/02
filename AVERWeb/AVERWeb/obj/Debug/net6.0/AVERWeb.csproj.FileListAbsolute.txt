@@ -1,0 +1,96 @@
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.AssemblyReference.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.AssemblyInfoInputs.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.AssemblyInfo.cs
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.CoreCompileInputs.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.RazorAssemblyInfo.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.RazorAssemblyInfo.cs
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\appsettings.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.staticwebassets.runtime.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.exe
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.deps.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.runtimeconfig.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.pdb
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\bundle\AVERWeb.styles.css
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\projectbundle\AVERWeb.bundle.scp.css
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.CopyComplete
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\refint\AVERWeb.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.pdb
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.genruntimeconfig.cache
+D:\MyProgramming\02\AVERWeb\AVERWeb\obj\Debug\net6.0\ref\AVERWeb.dll
+D:\MyProgramming\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\appsettings.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.staticwebassets.runtime.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.exe
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.deps.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.runtimeconfig.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AVERWeb.pdb
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.AssemblyReference.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.AssemblyInfoInputs.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.AssemblyInfo.cs
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.CoreCompileInputs.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.RazorAssemblyInfo.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.RazorAssemblyInfo.cs
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\bundle\AVERWeb.styles.css
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\scopedcss\projectbundle\AVERWeb.bundle.scp.css
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.csproj.CopyComplete
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\refint\AVERWeb.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.pdb
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\AVERWeb.genruntimeconfig.cache
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\obj\Debug\net6.0\ref\AVERWeb.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Humanizer.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\My Programming\.Net\02\AVERWeb\AVERWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
