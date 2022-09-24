@@ -4,7 +4,7 @@ namespace AVERWeb.Data
 {
     public interface IMachineTypeRepo
     {
-        Task SaveChanges();
+        void SaveChanges();
         Task<MachineType?> GetMachineTypeById(int id);
         Task<IEnumerable<MachineType>> GetAllMachineTypes();
         Task CreateMachineType(MachineType machineType);

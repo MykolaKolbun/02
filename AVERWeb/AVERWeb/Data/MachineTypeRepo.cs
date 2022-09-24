@@ -38,9 +38,9 @@ namespace AVERWeb.Data
             return await _context.MachineTypes.FirstOrDefaultAsync(c => c.Id==id);
         }
 
-        public async Task SaveChanges()
+        public void SaveChanges()
         {
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
         }
     }
 }
