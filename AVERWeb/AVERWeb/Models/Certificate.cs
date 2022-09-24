@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AVERWeb.Models
 {
-    public class Certificate
+    public sealed class Certificate
     {
         [Key]
         [Required]

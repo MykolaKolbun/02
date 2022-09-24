@@ -2,9 +2,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AVERWeb.Models
 {
-    public class Cashier
+    public sealed class Cashier
     {
-
         // Scalar Properties ---------------------------------------
         public int Id { get; set; }
         public string? FirstName { get; set; }
@@ -20,7 +19,5 @@ namespace AVERWeb.Models
         public int CustomerId { get; set; }
         public Customer? Customer { get; set; }
 
-        Cashier()
-        {}
     }
 }

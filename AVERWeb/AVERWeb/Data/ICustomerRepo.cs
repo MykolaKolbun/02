@@ -4,7 +4,7 @@ namespace AVERWeb.Data
 {
     public interface ICustomerRepo
     {
-        Task SaveChanges();
+        void SaveChanges();
         Task<Customer?> GetCustomerById(int id);
         Task<Customer?> GetCustomerByName(string name);
         Task<IEnumerable<Customer>> GetAllCustomers();

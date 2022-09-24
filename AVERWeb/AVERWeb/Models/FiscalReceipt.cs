@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AVERWeb.Models
 {
-    public class FiscalReceipt
+    public sealed class FiscalReceipt
     {
         [Key]
         [Required]

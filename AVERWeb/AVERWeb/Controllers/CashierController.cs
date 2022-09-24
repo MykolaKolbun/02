@@ -24,11 +24,11 @@ namespace AVERAPI.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
-        public ActionResult<IEnumerable<Cashier>> GetAllCashiers()
+        [HttpGet("fromcustomer/{customerId:int}", Name = "GetAllCashiers")]
+        public ActionResult<IEnumerable<Cashier>> GetAllCashiers(int customerId)
         {
             Console.WriteLine($"--> Hit GetAllCashiers");
-            var cashiersList = _repository.GetCashiersByCustomerId(1);
+            var cashiersList = _repository.GetCashiersByCustomerId(customerId);
             if(cashiersList==null)
                 return NotFound();
             else
@@ -36,16 +36,17 @@ namespace AVERAPI.Controllers
         }
 
 
-        [HttpGet("{id}", Name = "GetCashier")]
-        public ActionResult <Cashier> GetCashier(int id)
+        [HttpGet("{cashierId:int}", Name = "GetCashier")]
+        //[HttpGet("cashier/{id:int}")] // GET /api/test2/int/3
+        public ActionResult <Cashier> GetCashier(int cashierId)
         {
-            Console.WriteLine($"--> Hit GetCashier: {id}");
+            Console.WriteLine($"--> Hit GetCashier: {cashierId}");
 
-            if (!_repository.CashierExist(id))
+            if (!_repository.CashierExist(cashierId))
             {
                 return NotFound();
             }
-            var cashier = _repository.GetCashierById(id);
+            var cashier = _repository.GetCashierById(cashierId);
             return Ok(cashier.Result);
         }
 
@@ -63,7 +64,7 @@ namespace AVERAPI.Controllers
                 _repository.CreateCashier(cashierModel);
                 _repository.SaveChanges();
                 var cashierReadDto = _mapper.Map<CashierReadDto>(cashierModel);
-                return CreatedAtRoute(nameof(GetCashier), new {Id = cashierReadDto.Id}, cashierReadDto);;
+                return CreatedAtRoute(nameof(GetCashier), new {Id = cashierReadDto.Id}, cashierReadDto);
             }
         }
 

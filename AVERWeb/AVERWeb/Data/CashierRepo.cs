@@ -4,7 +4,7 @@ using System;
 
 namespace AVERWeb.Data
 {
-    public class CashierRepo : ICashierRepo
+    public sealed class CashierRepo : ICashierRepo
     {
         private readonly AppDbContext _context;
 

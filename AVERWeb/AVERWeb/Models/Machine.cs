@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AVERWeb.Models
 {
-    public class Machine
+    public sealed class Machine
     {
         public int Id { get; set; }
         [Required]

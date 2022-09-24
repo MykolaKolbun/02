@@ -42,9 +42,9 @@ namespace AVERWeb.Data
             return await _context.Customers.FirstOrDefaultAsync(c => c.Name == name);
         }
 
-        public async Task SaveChanges()
+        public void SaveChanges()
         {
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
         }
     }
 }
