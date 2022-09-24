@@ -38,9 +38,9 @@ namespace AVERWeb.Data
             return await _context.Certificates.Where(c => c.Id == _context.Cashiers.FirstOrDefault(q => q.Id == cashierId)!.CertificateId).ToListAsync();
         }
 
-        public async Task SaveChanges()
+        public void SaveChanges()
         {
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
         }
     }
 }

@@ -4,7 +4,7 @@ namespace AVERWeb.Data
 {
     public interface IPaymentTypeRepo
     {
-        Task SaveChanges();
+        void SaveChanges();
         Task<PaymentType?> GetPaymentTypeById(int id);
         Task<IEnumerable<PaymentType>> GetAllPaymentTypes();
         Task CreatePaymentType(PaymentType paymentType);

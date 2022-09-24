@@ -4,7 +4,7 @@ namespace AVERWeb.Data
 {
     public interface ICertificateRepo
     {
-        Task SaveChanges();
+        void SaveChanges();
         Task<Certificate?> GetCertificate(int id);
         Task<IEnumerable<Certificate>> GetCertificatesByCashierID(int cashierId);
         Task CreateCertificate(Certificate certificate);
