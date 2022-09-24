@@ -4,7 +4,7 @@ namespace AVERWeb.Data
 {
     public interface IMachineRepo
     {
-        Task SaveChanges();
+        void SaveChanges();
         Task CreateMachine(Machine machine);
         Task <IEnumerable<Machine>>GetAllMachine();
         Task<Machine?> GetMachineById(int id);
