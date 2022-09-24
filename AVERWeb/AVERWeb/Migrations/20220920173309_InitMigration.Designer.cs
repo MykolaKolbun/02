@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AVERWeb.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220916204209_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20220920173309_InitMigration")]
+    partial class InitMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

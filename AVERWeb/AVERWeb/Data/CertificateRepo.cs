@@ -35,7 +35,7 @@ namespace AVERWeb.Data
 
         public async Task<IEnumerable<Certificate>> GetCertificatesByCashierID(int cashierId)
         {
-            return await _context.Certificates.Where(c => c.Id == _context.Cashiers.FirstOrDefault(q => q.Id == cashierId).CertificateId).ToListAsync();
+            return await _context.Certificates.Where(c => c.Id == _context.Cashiers.FirstOrDefault(q => q.Id == cashierId)!.CertificateId).ToListAsync();
         }
 
         public async Task SaveChanges()

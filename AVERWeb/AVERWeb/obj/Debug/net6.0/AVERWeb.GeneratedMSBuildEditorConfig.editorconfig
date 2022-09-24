@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AVERWeb
 build_property.RootNamespace = AVERWeb
-build_property.ProjectDir = c:\My Programming\.Net\02\AVERWeb\AVERWeb\
+build_property.ProjectDir = D:\My Programming\.Net Core\02\AVERWeb\AVERWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\My Programming\.Net\02\AVERWeb\AVERWeb
+build_property.MSBuildProjectDirectory = D:\My Programming\.Net Core\02\AVERWeb\AVERWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/App.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/Counter.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/FetchData.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/Index.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Shared/SurveyPrompt.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/_Imports.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Shared/MainLayout.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-djhn2q89wt
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Shared/NavMenu.razor]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-s7jmzi3zs1
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/Error.cshtml]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/_Host.cshtml]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/My Programming/.Net/02/AVERWeb/AVERWeb/Pages/_Layout.cshtml]
+[D:/My Programming/.Net Core/02/AVERWeb/AVERWeb/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -7,7 +7,7 @@ namespace AVERWeb.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options){}
 
-        public DbSet<Cashier> Cashiers => Set<Cashier>();
+        public DbSet<Cashier> Cashiers  => Set<Cashier>();
         public DbSet<Certificate> Certificates => Set<Certificate>();
         public DbSet<Customer> Customers => Set<Customer>();
         public DbSet<FiscalReceipt> FiscalReceipts => Set<FiscalReceipt>();

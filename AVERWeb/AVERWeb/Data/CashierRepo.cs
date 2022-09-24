@@ -18,35 +18,46 @@ namespace AVERWeb.Data
             return _context.Cashiers.Any(p => p.Id == id);
         }
 
-        public async Task CreateCashier(Cashier cashier)
+
+        public void CreateCashier(Cashier cashier)
         {
             if (cashier == null)
                 throw new ArgumentNullException(nameof(cashier));
             else
-                await _context.AddAsync(cashier);
+                _context.Cashiers.Add(cashier);
         }
 
         public void DeleteCashier(Cashier cashier)
         {
-            if (cashier == null)
+            if (cashier is null)
                 throw new ArgumentNullException(nameof(cashier));
             else
                 _context.Cashiers.Remove(cashier);
         }
 
-        public async Task<Cashier?> GetCashierById(int id)
+        public async Task<Cashier> GetCashierById(int id)
         {
-            return await _context.Cashiers.FirstOrDefaultAsync(c => c.Id == id);
+            var cashier = _context.Cashiers.FirstOrDefault(c => c.Id == id);
+            if(cashier is not null)
+                return await Task.FromResult(cashier);
+            else
+                throw new NullReferenceException(nameof(id));
         }
 
         public async Task<IEnumerable<Cashier>> GetCashiersByCustomerId(int customerId)
         {
-            return await _context.Cashiers.Where(c => c.CustomerId == customerId).ToListAsync();
+            var cashiers = _context.Cashiers.Where(c => c.CustomerId == customerId);
+            return await Task.FromResult(cashiers);
         }
 
-        public async Task SaveChanges()
+        public void SaveChanges()
         {
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
+        }
+
+        public Cashier GetCashierById2(int Id)
+        {
+            return _context.Cashiers.FirstOrDefault(c=>c.Id==Id)!;
         }
     }
 }

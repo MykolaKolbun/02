@@ -18,8 +18,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(
         builder.Configuration.GetConnectionString("CommanderConnection")
     ));
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+    
 builder.Services.AddScoped<ICashierRepo, CashierRepo>();
 builder.Services.AddScoped<ICertificateRepo, CertificateRepo>();
 builder.Services.AddScoped<ICustomerRepo, CustomerRepo>();
@@ -27,6 +26,8 @@ builder.Services.AddScoped<IFiscalReceiptRepo, FiscalReceiptRepo>();
 builder.Services.AddScoped<IMachineRepo, MachineRepo>();
 builder.Services.AddScoped<IMachineTypeRepo, MachineTypeRepo>();
 builder.Services.AddScoped<IPaymentTypeRepo, PaymentTypeRepo>();
+
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
