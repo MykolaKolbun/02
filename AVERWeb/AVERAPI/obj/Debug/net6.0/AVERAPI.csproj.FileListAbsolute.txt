@@ -1,0 +1,7 @@
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.csproj.AssemblyReference.cache
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.AssemblyInfoInputs.cache
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.AssemblyInfo.cs
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.csproj.CoreCompileInputs.cache
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\My Programming\.Net Core\02\AVERWeb\AVERAPI\obj\Debug\net6.0\AVERAPI.MvcApplicationPartsAssemblyInfo.cache
